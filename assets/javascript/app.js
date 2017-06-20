@@ -41,21 +41,21 @@ var questions = [{
 
 {
     question: "Who starred in Iron Man?",
-    answers: [ "Akandu" , "James", "Michael" , "John"],
-    correctAnswer: "James" 
+    answers: [ "Robert downey jr" , "Will Smith", "Leonardo Decaprio" , "Shia LaBeouf"],
+    correctAnswer: "Robert downey jr" 
 
 },
     {
-    question: "What his name",
-    answers: [ "Akandu" , "James", "Michael" , "John"],
-    correctAnswer: "James" 
+    question: "What is the famous James Bond?",
+    answers: [ "Ashton Martin" , "BMW", "Mercedez Benz" , "Lambogini"],
+    correctAnswer: "Ashton Martin" 
 
  },
 
     {
-    question: "What his name",
+    question: "Who gave this project?",
     answers: [ "Akandu" , "James", "Michael" , "John"],
-    correctAnswer: "James" 
+    correctAnswer: "Akandu" 
 
 }];
 
